@@ -1,0 +1,59 @@
+html,body {
+	height: 100%;
+	padding-top: 45px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: #4A56B0;
+}
+li{
+	background-color: rgba(49,62,75,0.2);
+}
+section {
+  height:calc(90% - 50px);
+}
+.affix {
+  padding:0px;
+  -webkit-transition:padding 0.2s linear;
+  -moz-transition:padding 0.2s linear;  
+  -o-transition:padding 0.2s linear;         
+  transition:padding 0.2s linear;  
+}
+.affix-top {
+  padding-top:15px;
+  padding-bottom:15px;
+  -webkit-transition:padding 0.5s linear;
+  -moz-transition:padding 0.5s linear;  
+  -o-transition:padding 0.5s linear;         
+  transition:padding 0.5s linear;  
+}
+input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}
+form#frmErro{
+    width: 50%;
+    margin: auto;
+}
+img{
+	margin: auto;
+	left: auto;
+	text-align: center;
+}
+footer#rodape{
+	position: absolute;
+	color: cadetblue;
+	font-size: 8px;
+	left: 40px;
+	top: 20%;
+	width: auto;
+}
+footer#rodape p{
+    text-align: center;
+
+}

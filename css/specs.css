@@ -1,0 +1,71 @@
+input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}
+input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}
+input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}
+input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}
+input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}input:enabled, textarea:enabled, select:enabled, option:enabled {
+	border-radius: 10px 10px 10px 10px;
+}
+
+input:hover, textarea:hover, select:hover, option:hover{
+	background-color: rgba(54,109,159,0.1);
+	border-radius: 10px 10px 10px 10px;
+	color: darkslategrey;
+}@charset "UTF-8";
+
+section#conteudo{
+    margin: auto;
+	border: none;
+	
+}
+iframe#frame-spec{
+    height: 50px;
+    border: none;
+}
